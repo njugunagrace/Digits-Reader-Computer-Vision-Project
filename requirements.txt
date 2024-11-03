@@ -221,5 +221,5 @@ zipp==1.0.0
 gunicorn
 Flask
 Cython==0.29.36
-PyYAML==5.4.1
+PyYAML==5.4.1 --prefer-binary
 
