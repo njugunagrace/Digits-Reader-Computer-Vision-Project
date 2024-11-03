@@ -220,5 +220,6 @@ xkit==0.0.0
 zipp==1.0.0
 gunicorn
 Flask
-Cython
-PyYAML
+Cython==0.29.36
+PyYAML==5.4.1
+
